@@ -1,0 +1,12 @@
+{
+  "editor.rulers": [100],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true
+  },
+  "[jsonc]": {
+    "editor.formatOnSave": true
+  },
+  "eslint.validate": ["javascript", "typescript", "vue"],
+  "tslint.enable": false
+}
